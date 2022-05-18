@@ -11,3 +11,7 @@
 * `git status` - show status of local working tree
 * `git log` - list commit history of current branch
   * `--oneline` - compact list of history
+
+### Branching Commands
+* `git checkout` - moves back or forward through commits or branches
+* 
