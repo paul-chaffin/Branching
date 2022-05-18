@@ -13,5 +13,7 @@
   * `--oneline` - compact list of history
 
 ### Branching Commands
+* `git branch` - list local branches
+* `git branch bn` - create local branch `bn`
 * `git checkout` - moves back or forward through commits or branches
-* 
+*
