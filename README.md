@@ -17,3 +17,4 @@
 * `git branch bn` - create local branch `bn`
 * `git checkout` - moves back or forward through commits or branches
 *
+* newline
